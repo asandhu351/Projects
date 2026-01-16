@@ -1,0 +1,86 @@
+Load:Map loaded : map_40x30_A_5.bmp
+Attempting non-threaded solve of 39x29 map
+Found 2 gold @{X=1,Y=5}
+Found 3 gold @{X=5,Y=13}
+Found 4 gold @{X=25,Y=1}
+Found 5 gold @{X=7,Y=25}
+Found 1 gold @{X=35,Y=3}
+Treasure {X=1,Y=5} of value 2 found in 241
+Treasure {X=5,Y=13} of value 3 found in 273
+Treasure {X=7,Y=25} of value 5 found in 211
+Treasure {X=25,Y=1} of value 4 found in 285
+Treasure {X=35,Y=3} of value 1 found in 133
+Treasure hunt complete in 0ms
+
+
+Load:Map loaded : map_40x30_B_10.bmp
+Attempting non-threaded solve of 39x29 map
+Found 1 gold @{X=27,Y=7}
+Found 10 gold @{X=15,Y=9}
+Found 2 gold @{X=19,Y=13}
+Found 3 gold @{X=1,Y=15}
+Found 5 gold @{X=13,Y=17}
+Found 6 gold @{X=19,Y=21}
+Found 4 gold @{X=1,Y=27}
+Found 9 gold @{X=37,Y=5}
+Found 8 gold @{X=33,Y=21}
+Found 7 gold @{X=29,Y=23}
+Treasure {X=1,Y=15} of value 3 found in 147
+Treasure {X=1,Y=27} of value 4 found in 191
+Treasure {X=13,Y=17} of value 5 found in 209
+Treasure {X=15,Y=9} of value 10 found in 55
+Treasure {X=19,Y=13} of value 2 found in 87
+Treasure {X=19,Y=21} of value 6 found in 211
+Treasure {X=27,Y=7} of value 1 found in 25
+Treasure {X=29,Y=23} of value 7 found in 239
+Treasure {X=33,Y=21} of value 8 found in 265
+Treasure {X=37,Y=5} of value 9 found in 305
+Treasure hunt complete in 0ms
+
+Load:File:map_40x30_NoStart.bmp - Invalid Map : Start missing
+
+Load:Map loaded : map_40x30_NoTreasure.bmp
+Attempting non-threaded solve of 39x29 map
+Treasure hunt complete in 0ms
+
+Load:Map loaded : map_79x59_A_5.bmp
+Attempting threaded solve of 79x59 map
+Found 1 gold @{X=1,Y=41}
+Found 5 gold @{X=37,Y=1}
+Found 3 gold @{X=1,Y=1}
+Found 4 gold @{X=77,Y=25}
+Found 2 gold @{X=45,Y=37}
+Treasure {X=1,Y=1} of value 3 found in 683
+Treasure {X=1,Y=41} of value 1 found in 115
+Treasure {X=37,Y=1} of value 5 found in 619
+Treasure {X=45,Y=37} of value 2 found in 343
+Treasure {X=77,Y=25} of value 4 found in 503
+Treasure hunt complete in 96ms
+
+Load:Map loaded : map_189x49_A_5.bmp
+Attempting threaded solve of 189x49 map
+Found 2 gold @{X=125,Y=1}
+Found 4 gold @{X=3,Y=19}
+Found 5 gold @{X=1,Y=45}
+Found 3 gold @{X=97,Y=43}
+Found 1 gold @{X=185,Y=47}
+Treasure {X=1,Y=45} of value 5 found in 793
+Treasure {X=3,Y=19} of value 4 found in 733
+Treasure {X=97,Y=43} of value 3 found in 519
+Treasure {X=125,Y=1} of value 2 found in 185
+Treasure {X=185,Y=47} of value 1 found in 187
+Treasure hunt complete in 44ms
+
+Load:Map loaded : map_159x119_A_5.bmp
+Attempting threaded solve of 159x119 map
+Found 1 gold @{X=103,Y=13}
+Found 2 gold @{X=53,Y=81}
+Found 3 gold @{X=5,Y=43}
+Found 5 gold @{X=1,Y=81}
+Found 4 gold @{X=145,Y=93}
+Treasure {X=1,Y=81} of value 5 found in 1687
+Treasure {X=5,Y=43} of value 3 found in 1941
+Treasure {X=53,Y=81} of value 2 found in 1075
+Treasure {X=103,Y=13} of value 1 found in 29
+Treasure {X=145,Y=93} of value 4 found in 939
+Treasure hunt complete in 190ms
