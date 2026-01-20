@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Othello Web Game",
+    "description": "Online multiplayer Othello game built with html,css, javascript and php",
+    "github": "https://github.com/asandhu351/Projects/tree/main/Web%20projects/Othello",
+    "live": "https://yourlink.netlify.app"
+  },
+  {
+    "title": "Treasure Solver",
+    "description": "Multithreaded C# treasure hunting algorithm.",
+    "github": "https://github.com/asandhu351/Projects/tree/main/C%23/TreasureHunter",
+    "live": ""
+  }
+]
