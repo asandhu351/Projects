@@ -1,1 +1,1 @@
-this project is for logistics management system
+this project is for tutorial
